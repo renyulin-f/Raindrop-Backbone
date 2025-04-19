@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=3,4,6,7 python train.py --config /data2/renyulin/RaindropClarity-main-1/configs/daytime_64.yml --test_set Raindrop_DiT
